@@ -30,20 +30,29 @@ print(" World ")
 
 - To add an image: ![](path of the image)
 
-### To initialise a repo in pycharm terminal
+### To initialise a repo in pycharm terminal 
+#### If you have already set up a branch and want to push some updates/new files then only follow the steps with the *
 
-- 'git init' :To check what is added to be sent to githun
-- ' git status' to ensure only required files are added to be sent
-- to add 'git add. ' or 'git add name_of_file'
-- to save changes 'git commit -m "logical mesage" '
-- to push changes to github 'git push -u origin main'
+- * Initialises git
+- 'git init'
+  
+- List what files are going to be pushed (green for added, red for not), to ensure only required files are added to be sent
+- 'git status'
+  
+- * To add either all the files or selected files 
+- 'git add. ' or 'git add name_of_file'
 
+- * To save changes and write a message
+- 'git commit -m "logical message" '
 
-- if you have not set remote branch to main 
-- you need to run ' git branch -M main' after running the commit command
-- adding remote to connect localhost with github repo
+- Confirms and sets remote branch to main
+- `git branch -M main`
+
+- Adds remote to connect localhost with github repo (this line changes with every new repo)
 - 'git remote add origin git@github.com:NikiNikiforidi/eng89_markdown_doc.git'
-**setting the branch to -M main and adding the remote is only to be done first time**
+
+- * Pushes the changes to github
+- `git push -u origin main`    
   
 
 [MarkDown guides]()
