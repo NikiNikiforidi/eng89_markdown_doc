@@ -25,15 +25,14 @@ print(" Hello ")
 print(" World ")
 ```
 
-- To add a link or URL, use ['Title'] and then link
+- To add a link or URL, use ['Title'] and then link. Example:
 - [Python Basics] (https://github.com/khanmaster/eng89_markdown_documentation)
 
-- To add an image
-- ![](path of the image)
+- To add an image: ![](path of the image)
 
-#### hto initialise a repo using pycharm
-- 'git init'
-- to check what is added to be sent to githun
+### To initialise a repo in pycharm terminal
+
+- 'git init' :To check what is added to be sent to githun
 - ' git status' to ensure only required files are added to be sent
 - to add 'git add. ' or 'git add name_of_file'
 - to save changes 'git commit -m "logical mesage" '
