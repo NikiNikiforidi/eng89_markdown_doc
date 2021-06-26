@@ -14,18 +14,19 @@
 
 **To write anything in bold use ** at both end of your sentence, make sure to have no spaces**
 
-
+- To print a single line of code, put code between two of `
 
 `print('hello world')`
 
+- To print multiple lines of code together, put between two pairs of ```
 
 ``` 
-print(" you can make code inthese")
+print(" Hello ")
+print(" World ")
 ```
 
-- `print("for single line of code")`
-
-- [Python basics] ()
+- To add a link or URL, use ['Title'] and then link
+- [Python Basics] (https://github.com/khanmaster/eng89_markdown_documentation)
 
 - To add an image
 - ![](path of the image)
