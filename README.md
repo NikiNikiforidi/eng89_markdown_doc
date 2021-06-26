@@ -1,23 +1,29 @@
-### changes made on git-hub (to be uplaoded to local)
+# Markdown documentation
+### Important: Changes made on git-hub must to downloaded to local
 
-# single hash is used to create heading 1 H1
-## double hash for heading2 H2
-### tripple hash for heading 2 H3
+
+# Heading 1: single hash # 
+## Heading 2: double hash ## 
+### Heading 3: triple hash ###
+#### Heading 4: triple hash ####
+##### Heading 5: triple hash #####
+###### Heading 6: triple hash ######
+
 
 - dash - makes bullet point
 
 **to write anything in bold (** **) between and no spaces**
 
 
-'''
+```
 print('hello world')
-'''
+```
 
 ``` 
 print(" you can make code inthese")
 ```
 
-- 'print("for single line of code")'
+- `print("for single line of code")`
 
 - [Python basics] ()
 
@@ -41,5 +47,7 @@ print(" you can make code inthese")
   
 
 [MarkDown guides]()
+
+
   
 
