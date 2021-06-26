@@ -10,14 +10,14 @@
 ###### Heading 6: triple hash ######
 
 
-- dash - makes bullet point
+- dash (-) makes bullet points
 
-**to write anything in bold (** **) between and no spaces**
+**To write anything in bold use ** at both end of your sentence, make sure to have no spaces**
 
 
-```
-print('hello world')
-```
+
+`print('hello world')`
+
 
 ``` 
 print(" you can make code inthese")
