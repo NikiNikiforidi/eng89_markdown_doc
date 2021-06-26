@@ -74,7 +74,7 @@ print(" World ")
 - Create dir `mkdir name_of_directory` 
 - delete file `rm file_name` or force delete with `rm -rf name_file`  
 - copy file `cp desination of file you want to copy` space `destination where to copy'`
-- move file `mv destination of file you want to cut` space 'destination where to copy', also works to rename the file
+- move file `mv destination of file you want to cut` space `destination where to copy`, also works to rename the file
 - `ls` to list everything `ls -a` list everything including hidden files
 - see content the file on terminal without opening the file `cat file_name`
   
