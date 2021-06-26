@@ -11,7 +11,7 @@
 
 
 - dash (-) makes bullet points
-- * asterisk (*) makes hollow bullet points 
+
 
 **To write anything in bold use ** at both end of your sentence, make sure to have no spaces**
 
@@ -34,16 +34,16 @@ print(" World ")
 ### To initialise a repo in pycharm terminal 
 #### If you have already set up a branch and want to push some updates/new files then only follow the steps with the *
 
-- * Initialises git
+- Initialises git *
 - 'git init'
   
 - List what files are going to be pushed (green for added, red for not), to ensure only required files are added to be sent
 - 'git status'
   
-- * To add either all the files or selected files 
+- To add either all the files or selected files *
 - 'git add. ' or 'git add name_of_file'
 
-- * To save changes and write a message
+- To save changes and write a message *
 - 'git commit -m "logical message" '
 
 - Confirms and sets remote branch to main
@@ -52,7 +52,7 @@ print(" World ")
 - Adds remote to connect localhost with github repo (this line changes with every new repo)
 - 'git remote add origin git@github.com:NikiNikiforidi/eng89_markdown_doc.git'
 
-- * Pushes the changes to github
+- Pushes the changes to github *
 - `git push -u origin main`    
   
 
