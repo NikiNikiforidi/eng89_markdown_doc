@@ -11,7 +11,7 @@
 
 
 - dash (-) makes bullet points
-* asterisk (*) makes hollow bullet points 
+-* asterisk (*) makes hollow bullet points 
 
 **To write anything in bold use ** at both end of your sentence, make sure to have no spaces**
 
